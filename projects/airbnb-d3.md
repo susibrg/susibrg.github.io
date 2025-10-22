@@ -15,4 +15,6 @@ Proyecto de **visualización interactiva** con D3.js a partir de dataset de Kagg
 **Enlaces.** [Demo](#) · [Código](#)
 
 ![Mapa](/assets/img/airbnb_map.png)
+
+
 [← Volver al inicio](/)
