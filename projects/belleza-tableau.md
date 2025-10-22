@@ -11,4 +11,6 @@ title: "Productos de belleza — Análisis visual (Tableau)"
 **Enlaces.** [Workbook](#) · [Publicación Web](#)
 
 ![Tableau](/assets/img/tableau_belleza.png)
+
+
 [← Volver al inicio](/)
