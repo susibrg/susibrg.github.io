@@ -11,9 +11,9 @@ title: "Restaurantes europeos — Valoración y popularidad (Power BI)"
 
 **Decisiones de diseño.** Claridad, comparabilidad, UX con navegación.
 
-**Enlaces.** [PBIX](#) · [Publicación Web](#) · [Dataset](#)
+**Enlaces.** [PBIX+DATASET](/assets/restaurantes/Todoaqui.zip) · [Informe](/assets/restaurantes/Informe_dashboard_restaurants.pdf)
 
-![Dashboard](/assets/img/powerbi_restaurantes.png)
+![Dashboard](https://github.com/susibrg/susibrg.github.io/blob/main/assets/restaurantes/Captura%20de%20pantalla%202025-10-22%20172552.png?raw=true)
 
 
 [← Volver al inicio](/)
