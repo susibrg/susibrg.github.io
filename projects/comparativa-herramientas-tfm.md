@@ -14,3 +14,6 @@ title: "TFM — Comparativa Tableau · Power BI · Python"
 **Enlaces.** [Memoria PDF](#) · [Repos](#) · [Artefactos](#)
 
 ![Comparativa](/assets/img/tfm_comp.png)
+
+
+[← Volver al inicio](/)
