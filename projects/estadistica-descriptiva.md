@@ -19,7 +19,7 @@ title: "Estadística Descriptiva — Viajes y gasto"
 
 **Enlaces.** [Repo](/assets/airbnb/Estadística_descriptiva_alojamientos.R) · [PDF](assets/airbnb/Estadistica_descriptiva_informe.pdf) 
 
-![Gráfico ejemplo][(assets/airbnb/grafico_R.png)](https://github.com/susibrg/susibrg.github.io/blob/main/assets/airbnb/grafico_R.png?raw=true)
+![Gráfico ejemplo](https://github.com/susibrg/susibrg.github.io/blob/main/assets/airbnb/grafico_R.png?raw=true)
 
 
 [← Volver al inicio](/)
