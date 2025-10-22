@@ -17,3 +17,4 @@ title: "Estadística Descriptiva — Viajes y gasto"
 **Enlaces.** [Repo](#) · [PDF](#) · [Gráficos](#)
 
 ![Gráfico ejemplo](/assets/img/estadistica_1.png)
+[← Volver al inicio](/)
