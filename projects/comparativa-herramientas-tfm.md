@@ -12,7 +12,7 @@ title: "TFM — Comparativa Tableau · Power BI · Python"
 - Ponderación de criterios y scoring final
 
 
-**Enlaces.** [Memoria PDF](assets/tfm/Susana_Barrera_Garcia.pdf) · [Tableau](Tableau+cleaneddatasets.zip) · [Python](Python+plotly.ipynb) · [PowerBI](powerbi.pbix)
+**Enlaces.** [Memoria PDF](/assets/tfm/Susana_Barrera_Garcia.pdf) · [Tableau](/TFMRepository/Tableau+cleaneddatasets.zip) · [Python](/TFMRepository/Python+plotly.ipynb) · [PowerBI](/TFMRepository/powerbi.pbix)
 
 
 
