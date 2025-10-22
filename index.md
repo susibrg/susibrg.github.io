@@ -1,4 +1,4 @@
-[Inicio](/) · [Proyectos](/projects) · [Contacto](/contacto)
+[Inicio](/) · [Contacto](/contacto)
 
 # ¡Hola! Soy Susana 👋
 
