@@ -4,7 +4,7 @@ title: "Estadística Descriptiva — Viajes y gasto"
 
 **Resumen.** Análisis exploratorio para entender la relación entre **motivo del viaje**, **gasto medio diario** y **duración**.
 
-**Dataset.** Fuente institucional/encuesta (indica enlace si procede).  
+**Dataset.** Fuente AirBNB Data.
 **Técnicas.** Limpieza, descriptores, correlaciones y segmentación.  
 **Stack.** R junto a RStudio.
 
