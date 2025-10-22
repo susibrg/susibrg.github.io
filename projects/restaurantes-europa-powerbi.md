@@ -14,3 +14,6 @@ title: "Restaurantes europeos — Valoración y popularidad (Power BI)"
 **Enlaces.** [PBIX](#) · [Publicación Web](#) · [Dataset](#)
 
 ![Dashboard](/assets/img/powerbi_restaurantes.png)
+
+
+[← Volver al inicio](/)
