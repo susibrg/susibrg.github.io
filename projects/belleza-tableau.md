@@ -8,9 +8,9 @@ title: "Productos de belleza — Análisis visual (Tableau)"
 
 **Vistas.** Árbol de categorías, rating vs precio, top productos, segmentación.
 
-**Enlaces.** [Workbook](#) · [Publicación Web](#)
+**Enlaces.** [Workbook](assets/belleza/Most used beauty cosmetics products.twbx) · [Informe](assets/belleza/Informe Tableau Belleza.pdf)
 
-![Tableau](/assets/img/tableau_belleza.png)
+![Tableau](https://github.com/susibrg/susibrg.github.io/blob/main/assets/belleza/Captura%20de%20pantalla%202025-10-22%20173527.png?raw=true)
 
 
 [← Volver al inicio](/)
