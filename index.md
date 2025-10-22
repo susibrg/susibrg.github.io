@@ -21,4 +21,4 @@ Aquí comparto algunos de mis proyectos, intereses y formas de contacto.
 
 
 
-[Visita mi GitHub](https://github.com/susibrg)
+[Sígueme en GitHub](https://github.com/susibrg)
