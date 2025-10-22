@@ -2,7 +2,8 @@
 title: "TFM — Comparativa Tableau · Power BI · Python"
 ---
 
-**Marco.** CRISP-DM + evaluación **multicriterio** (facilidad, calidad visual, rendimiento, flexibilidad, curva de aprendizaje).  
+**Marco.** CRISP-DM + evaluación **multicriterio** (facilidad, calidad visual, rendimiento, flexibilidad, curva de aprendizaje).
+
 **Caso.** Tendencias criminales en Europa (Eurostat).
 
 **Metodología.**
@@ -10,10 +11,10 @@ title: "TFM — Comparativa Tableau · Power BI · Python"
 - Visualizaciones equivalentes en cada herramienta
 - Ponderación de criterios y scoring final
 
-**Conclusiones.** (resumen de hallazgos — añade bullets)  
-**Enlaces.** [Memoria PDF](#) · [Repos](#) · [Artefactos](#)
 
-![Comparativa](/assets/img/tfm_comp.png)
+**Enlaces.** [Memoria PDF](assets/tfm/Susana_Barrera_Garcia.pdf) · [Tableau](Tableau+cleaneddatasets.zip) · [Python](Python+plotly.ipynb) · [PowerBI](powerbi.pbix)
+
+
 
 
 [← Volver al inicio](/)
