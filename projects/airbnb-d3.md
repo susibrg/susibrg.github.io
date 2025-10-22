@@ -12,7 +12,8 @@ Proyecto de **visualización interactiva** con D3.js a partir de dataset de Kagg
 **Stack.** D3.js, HTML/CSS, Data cleaning.  
 **Interacción.** Filtros por ciudad/servicio, tooltips, leyendas activas.
 
-**Enlaces.** [Demo](#) · [Código](#)
+**Enlaces.** [Informe](assets/alojamientos/Informe_AIRBNB_D3.pdf) · [Código](assets/alojamientos/AIRBNB_SCRIPTS.zip) · [Dataset escogido](assets/alojamientos/Airbnb_data.csv)
+
 
 ![Mapa](/assets/img/airbnb_map.png)
 
