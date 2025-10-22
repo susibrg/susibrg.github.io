@@ -14,7 +14,10 @@ title: "Estadística Descriptiva — Viajes y gasto"
 - Recomendaciones para marketing turístico
 
 **Entregables.** Informe y notebook.
+
 **Enlaces.** [Repo](/assets/airbnb/Estadística_descriptiva_alojamientos.R) · [PDF](assets/airbnb/Estadistica_descriptiva_informe.pdf) 
 
 ![Gráfico ejemplo](/assets/airbnb/grafico_R.png)
+
+
 [← Volver al inicio](/)
