@@ -1,3 +1,5 @@
+[Inicio](/) · [Proyectos](/projects) · [Contacto](/contacto)
+
 # ¡Hola! Soy Susana 👋
 
 Soy analista de datos y apasionada por la tecnología, el diseño y las soluciones creativas.  
