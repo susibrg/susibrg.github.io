@@ -13,8 +13,8 @@ title: "Estadística Descriptiva — Viajes y gasto"
 - Relación gasto-duración (outliers, perfiles)
 - Recomendaciones para marketing turístico
 
-**Entregables.** Informe, notebooks y gráficos.  
-**Enlaces.** [Repo](#) · [PDF](#) · [Gráficos](#)
+**Entregables.** Informe y notebook.
+**Enlaces.** [Repo](/assets/airbnb/Estadística_descriptiva_alojamientos.R) · [PDF](assets/airbnb/Estadistica_descriptiva_informe.pdf) 
 
-![Gráfico ejemplo](/assets/img/estadistica_1.png)
+![Gráfico ejemplo](/assets/airbnb/grafico_R.png)
 [← Volver al inicio](/)
